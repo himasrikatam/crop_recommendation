@@ -1,8 +1,4 @@
 Flask
 flask_pymongo
 pymongo
-flask_cors
-scikit-learn
-pandas
-bson
 gunicorn
