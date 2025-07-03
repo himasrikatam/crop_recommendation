@@ -21,6 +21,6 @@ def result():
         'prediction': predicted_crop
     })
     return render_template('predict.html',prediction = predicted_crop)
-if __name__ == '__main__':
- app.run(debug=True)
+# if __name__ == '__main__':
+#  app.run(debug=True)
 # go to  http://127.0.0.1:5000 to see the output
