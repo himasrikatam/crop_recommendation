@@ -1,3 +1,4 @@
+# c:\Users\HP\Desktop\crop_recommendation\.venv\Scripts\python.exe -m pip install flask-pymongo
 import pickle
 from flask_pymongo import PyMongo
 from flask import Flask
